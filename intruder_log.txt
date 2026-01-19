@@ -1,0 +1,2 @@
+[2026-01-19 06:51:56] ALERT: Intrusion Detected | MSE: 121.2578 | Threshold: 32.5534 | Action: HONEYPOT_ACTIVATED
+[2026-01-19 07:01:13] ALERT: Intrusion Detected | MSE: 22.9202 | Thresh: 0.3965
